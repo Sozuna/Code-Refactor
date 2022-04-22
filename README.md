@@ -1,4 +1,4 @@
-# Code-Refactor
+# Demo-Website
  Go to deployed application: https://sozuna.github.io/Code-Refactor/
 ## Description
 A webpage meets accessibility standards
